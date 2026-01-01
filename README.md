@@ -65,3 +65,4 @@ https://github.com/Prakharsinghal22/movie-recommender-mlproject
 
 Prakhar Singhal
 Computer Science (AI/ML) | Machine Learning Enthusiast
+
