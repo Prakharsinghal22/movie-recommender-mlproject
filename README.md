@@ -1,5 +1,6 @@
 🎬 Movie Recommendation System
 
+## SEE LIVE ON :- https://movie-recommender-mlproject-gm23nweiywpmplzlxahqlq.streamlit.app/
 A content-based movie recommendation system built using Python and machine learning techniques. The application suggests similar movies based on user selection using cosine similarity and feature extraction.
 
 🚀 Features
@@ -65,4 +66,5 @@ https://github.com/Prakharsinghal22/movie-recommender-mlproject
 
 Prakhar Singhal
 Computer Science (AI/ML) | Machine Learning Enthusiast
+
 
